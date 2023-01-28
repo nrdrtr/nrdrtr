@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Nurullah
 
-I'm a Computer Engineering student at Cumhuriyet University. I'm interested in software development and I'm currently learning Java, Spring Boot, React.
+I'm a Computer Engineering student at Cumhuriyet University. I'm interested in software development and I'm currently learning Java, Spring Boot,JavaScript and  React.
 
 ### 🌱 I’m currently learning:
 
@@ -17,4 +17,3 @@ I'm a Computer Engineering student at Cumhuriyet University. I'm interested in s
 ### 📈 My GitHub Stats:
 
 ![nrdrtr's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrdrtr&show_icons=true&theme=github_dark)
- 
